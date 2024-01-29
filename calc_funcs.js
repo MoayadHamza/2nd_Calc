@@ -7,7 +7,7 @@ let evalString = ''
 
 monitor = document.getElementById('monitor')
 
-function addCharToMonitor(x){
+function FunctionalButtonPressed(x){
     switch(x){
         case 'pi':
             basicString += 'p'
