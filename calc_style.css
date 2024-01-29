@@ -1,0 +1,50 @@
+#ContainerDiv{
+    border: 1px solid silver;
+    background-color: rgb(242,242,242);
+    font-size: 18px;
+    text-align: center;
+    width: 450px;
+}
+
+#monitor{
+    color: black;
+    font-size: 35px;
+    text-align: left;
+    border: 2px solid silver;
+    background-color: rgb(242,242,242);
+    height: 60px;
+    margin: 10px;
+    padding-top: 12px;
+    padding-left: 4px;
+    border-radius: 3px;
+}
+
+#resButt:hover{
+    background-color: #2e2bf071;
+}
+
+.butts{ 
+    height: 30px;
+    width: 86px; 
+    text-align: center;
+    font-weight: lighter;
+    background-color: rgb(250,250,250);
+    margin: 2px 2px;
+    padding-top: 8px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.numButts{
+    background-color: white;
+    font-weight: bolder;
+}
+
+.butts:hover{
+    background-color: rgb(97, 97, 97);
+    color: white;
+}
+
+.notworking{
+    color:#7a7a7a71;
+}
