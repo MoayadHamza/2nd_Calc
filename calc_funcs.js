@@ -91,8 +91,8 @@ function CreateStrings(){
                 evalString += '1/'
                 break;
             case '%':
-                monitorString += '%'
-                evalString += 'mod'
+                monitorString += 'mod'
+                evalString += '%'
                 break;
             case '^':
                 monitorString += '^'
